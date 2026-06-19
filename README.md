@@ -1,4 +1,4 @@
-# Telco_Customer_Churn_Analysis
+# SaaS_Customer_Churn_Analysis
 This project analyzes customer churn behavior using the IBM Telco dataset. The goal is to identify patterns behind customer high customer churn rates and build an interactive dashboard to support business decision-making.  The workflow combines data preparation in Alteryx and visualization in Tableau.
 Click here for the interactive dashboard https://public.tableau.com/shared/KX8M3KHT8?:display_count=n&:origin=viz_share_link
 # Dataset
